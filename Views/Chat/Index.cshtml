@@ -1,0 +1,39 @@
+﻿@using ItiFinalProject.View_Model.Chat_Bot
+@model ChatBotViewModel
+
+<div class="mt-4">
+    <h2 class="mb-4">
+        Chat Bot
+    </h2>
+    <form asp-action="Ask" asp-controller="Chat" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="PDfFile" class="form-label">
+                Upload Pdf
+            </label>
+            <input type="file" asp-for="PDfFile" accept=".pdf" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Question" class="form-label">
+                Your Question
+            </label>
+            <textarea asp-for="Question"
+                      class="form-control"
+                      rows="3"
+                      placeholder="Ask a question about your pdf">
+
+            </textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">
+            Ask AI
+        </button>
+    </form>
+    @if(!string.IsNullOrEmpty(Model?.Answer))
+    {
+        <div class="alert alert-warning mt-4">
+            <h5>
+                AI Answer
+            </h5>
+            <p>@Model.Answer</p>
+        </div>
+    }
+</div>

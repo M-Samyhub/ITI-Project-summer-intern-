@@ -1,5 +1,6 @@
 ﻿using ItiFinalProject.Interfaces.Services;
 using ItiFinalProject.View_Model.Category;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ItiFinalProject.Controllers
@@ -26,6 +27,7 @@ namespace ItiFinalProject.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public ActionResult Create()
         {
             return View();
@@ -33,6 +35,7 @@ namespace ItiFinalProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<IActionResult> Create(CreateCategoryViewModel model)
         {
             if(!ModelState.IsValid)
@@ -43,6 +46,7 @@ namespace ItiFinalProject.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Edit(int id) 
         {
             var category = await _categoryService.GetForEditByIdAsync(id);
@@ -54,6 +58,7 @@ namespace ItiFinalProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<IActionResult> Edit(int id ,UpdateCategoryViewModel model) 
         {
             if (id != model.Id) 
@@ -68,6 +73,7 @@ namespace ItiFinalProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<IActionResult> Delete(int id)
         {
             var category = await _categoryService.GetByIdAsync(id);

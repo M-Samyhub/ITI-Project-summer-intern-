@@ -1,5 +1,6 @@
 ﻿using ItiFinalProject.Interfaces.Services;
 using ItiFinalProject.View_Model.Product;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
@@ -33,6 +34,7 @@ namespace ItiFinalProject.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<IActionResult> Create(CreateProductViewModel model)
         {
             if (model.CategoryId == null || model.CategoryId <= 0)
@@ -45,6 +47,7 @@ namespace ItiFinalProject.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Edit(int id)
         {
             var product = await _productService.GetForEditByIdAsync(id);
@@ -55,6 +58,7 @@ namespace ItiFinalProject.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<IActionResult> Edit(int id,UpdateProductViewModel model)
         {
             if (id != model.Id)
@@ -72,6 +76,7 @@ namespace ItiFinalProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<IActionResult> Delete(int id)
         {
             var product = await _productService.GetByIdAsync(id);

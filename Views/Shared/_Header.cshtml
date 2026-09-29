@@ -10,6 +10,7 @@
     <li><a asp-controller="Home" asp-action="Index" class="nav-link px-2 link-secondary">Home</a></li>
     <li><a asp-controller="Category" asp-action="Index" class="nav-link px-2">Category</a></li>
     <li><a asp-controller="Product" asp-action="Index" class="nav-link px-2">Products</a></li>
+    <li><a asp-controller="Chat" asp-action="Index" class="nav-link px-2">Chat Bot</a></li>
 </ul>
 @if (SignInManager.IsSignedIn(User))
 {
@@ -21,7 +22,7 @@
     </li>
     <li class="nav-item">
         <form asp-controller="User" asp-action="Logout" method="post" class="d-inline">
-            <button type="submit" class="btn btn-outline-danger">تسجيل الخروج</button>
+            <button type="submit" class="btn btn-outline-danger">Log Out</button>
         </form>
     </li>
 }

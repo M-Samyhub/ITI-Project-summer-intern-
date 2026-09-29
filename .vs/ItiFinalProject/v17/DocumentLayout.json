@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\interfaces\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:interfaces\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\view model\\chat bot\\chatbotviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:view model\\chat bot\\chatbotviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,10 +86,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -48,10 +96,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,10 +126,6 @@
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:view model\\user\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260928033640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033329_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260928033329_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -96,10 +136,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,16 +170,8 @@
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:validators\\product\\updateproductviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\view model\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:view model\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,10 +190,6 @@
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:itifinalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\interfaces\\services\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:interfaces\\services\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -176,6 +200,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\view model\\category\\createcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:view model\\category\\createcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|c:\\users\\nasrat\\onedrive\\desktop\\iti tasks\\itifinalproject\\migrations\\20260928033640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C7534-7938-4535-81CF-439ACC9D6D95}|ItiFinalProject.csproj|solutionrelative:migrations\\20260928033640_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -185,7 +213,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -193,111 +221,153 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:21:08.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:19:04.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T04:10:15.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwDIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T13:44:41.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T13:42:24.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwDEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T14:00:24.381Z",
+              "WhenOpened": "2026-09-29T18:15:45.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "Views\\User\\Register.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:13:08.033Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:10:15.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T06:30:30.892Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T04:32:09.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\ChatService.cs",
+              "RelativeToolTip": "Services\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T05:25:20.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:19:53.874Z",
-              "EditorCaption": ""
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IChatService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IChatService.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IChatService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T05:23:44.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:25:36.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwE4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:30:47.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:53:38.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T04:21:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T04:46:48.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatBotViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Chat Bot\\ChatBotViewModel.cs",
+              "RelativeDocumentMoniker": "View Model\\Chat Bot\\ChatBotViewModel.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Chat Bot\\ChatBotViewModel.cs",
+              "RelativeToolTip": "View Model\\Chat Bot\\ChatBotViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T04:44:55.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "_ViewImports.cshtml",
@@ -305,337 +375,11 @@
               "RelativeToolTip": "_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:25:55.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "..\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\_ViewImports.cshtml",
-              "RelativeToolTip": "..\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:30:52.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T04:27:48.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "Views\\User\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T04:16:18.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\AuthService.cs",
-              "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T04:01:06.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Services\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IAuthService.cs",
-              "RelativeToolTip": "Interfaces\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T04:00:16.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthResult.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\AuthResult.cs",
-              "RelativeDocumentMoniker": "View Model\\User\\AuthResult.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\AuthResult.cs",
-              "RelativeToolTip": "View Model\\User\\AuthResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:59:39.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T04:25:55.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:53:38.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginViewModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\LoginViewModelValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\User\\LoginViewModelValidator.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\LoginViewModelValidator.cs",
-              "RelativeToolTip": "Validators\\User\\LoginViewModelValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:50:26.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegisterViewModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\RegisterViewModelValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\User\\RegisterViewModelValidator.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\RegisterViewModelValidator.cs",
-              "RelativeToolTip": "Validators\\User\\RegisterViewModelValidator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:41:54.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "View Model\\User\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\LoginViewModel.cs",
-              "RelativeToolTip": "View Model\\User\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:39:52.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "View Model\\User\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\RegisterViewModel.cs",
-              "RelativeToolTip": "View Model\\User\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:38:57.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20260928033640_init.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033640_init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260928033640_init.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033640_init.cs",
-              "RelativeToolTip": "Migrations\\20260928033640_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:36:40.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20260928033329_AddIdentityTables.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033329_AddIdentityTables.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260928033329_AddIdentityTables.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033329_AddIdentityTables.cs",
-              "RelativeToolTip": "Migrations\\20260928033329_AddIdentityTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:33:29.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAnwBkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:32:25.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:27:16.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:24:56.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwEUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T16:30:47.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAvwEEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T03:37:01.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GenericReopsitory.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\GenericReopsitory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericReopsitory.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\GenericReopsitory.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\GenericReopsitory.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIA4wCsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T04:53:48.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CreateProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\CreateProductViewModel.cs",
-              "RelativeDocumentMoniker": "View Model\\Product\\CreateProductViewModel.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\CreateProductViewModel.cs",
-              "RelativeToolTip": "View Model\\Product\\CreateProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T03:26:56.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\UpdateProductViewModel.cs",
-              "RelativeDocumentMoniker": "View Model\\Product\\UpdateProductViewModel.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\UpdateProductViewModel.cs",
-              "RelativeToolTip": "View Model\\Product\\UpdateProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T11:53:56.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T14:58:04.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Services\\CategoryService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T04:38:48.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UpdateProductViewModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\UpdateProductViewModelValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\Product\\UpdateProductViewModelValidator.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\UpdateProductViewModelValidator.cs",
-              "RelativeToolTip": "Validators\\Product\\UpdateProductViewModelValidator.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T14:19:55.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CreateProductViewModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\CreateProductViewModelValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\Product\\CreateProductViewModelValidator.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\CreateProductViewModelValidator.cs",
-              "RelativeToolTip": "Validators\\Product\\CreateProductViewModelValidator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T15:09:05.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "GenericService.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\GenericService.cs",
               "RelativeDocumentMoniker": "Services\\GenericService.cs",
@@ -643,12 +387,358 @@
               "RelativeToolTip": "Services\\GenericService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T15:53:33.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T15:53:33.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:38:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T04:19:04.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T13:44:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T13:42:24.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T14:00:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T04:13:08.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T04:19:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T04:30:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:27:48.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T04:16:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:01:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:00:16.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\AuthResult.cs",
+              "RelativeDocumentMoniker": "View Model\\User\\AuthResult.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\AuthResult.cs",
+              "RelativeToolTip": "View Model\\User\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:59:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\LoginViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\User\\LoginViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\LoginViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\User\\LoginViewModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:50:26.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\RegisterViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\User\\RegisterViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\User\\RegisterViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\User\\RegisterViewModelValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:41:54.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "View Model\\User\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\LoginViewModel.cs",
+              "RelativeToolTip": "View Model\\User\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:39:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "View Model\\User\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\User\\RegisterViewModel.cs",
+              "RelativeToolTip": "View Model\\User\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:38:57.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260928033640_init.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033640_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260928033640_init.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033640_init.cs",
+              "RelativeToolTip": "Migrations\\20260928033640_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:36:40.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260928033329_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033329_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260928033329_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Migrations\\20260928033329_AddIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20260928033329_AddIdentityTables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:33:29.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:32:25.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:27:16.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:24:56.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIA+wEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T03:37:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GenericReopsitory.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\GenericReopsitory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericReopsitory.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\GenericReopsitory.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericReopsitory.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:53:48.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "View Model\\Product\\CreateProductViewModel.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\CreateProductViewModel.cs",
+              "RelativeToolTip": "View Model\\Product\\CreateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T03:26:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\UpdateProductViewModel.cs",
+              "RelativeDocumentMoniker": "View Model\\Product\\UpdateProductViewModel.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\UpdateProductViewModel.cs",
+              "RelativeToolTip": "View Model\\Product\\UpdateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:53:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\CategoryDropdown\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T14:58:04.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateProductViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\UpdateProductViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\Product\\UpdateProductViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\UpdateProductViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\Product\\UpdateProductViewModelValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T14:19:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateProductViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\CreateProductViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\Product\\CreateProductViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Validators\\Product\\CreateProductViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\Product\\CreateProductViewModelValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T15:09:05.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Services\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\MappingProfile.cs",
@@ -656,12 +746,11 @@
               "RelativeToolTip": "Services\\MappingProfile.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T15:45:50.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T15:45:50.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "ProductViewModel.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Product\\ProductViewModel.cs",
               "RelativeDocumentMoniker": "View Model\\Product\\ProductViewModel.cs",
@@ -669,12 +758,11 @@
               "RelativeToolTip": "View Model\\Product\\ProductViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T13:15:32.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T13:15:32.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "CategoryDropdownViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Components\\CategoryDropdownViewComponent.cs",
               "RelativeDocumentMoniker": "View Components\\CategoryDropdownViewComponent.cs",
@@ -682,12 +770,11 @@
               "RelativeToolTip": "View Components\\CategoryDropdownViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T04:13:09.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T04:13:09.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "ItiFinalProject.csproj",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\ItiFinalProject.csproj",
               "RelativeDocumentMoniker": "ItiFinalProject.csproj",
@@ -695,12 +782,11 @@
               "RelativeToolTip": "ItiFinalProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-25T04:12:35.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T04:12:35.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Infrastructure\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CategoryRepository.cs",
@@ -708,12 +794,11 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T04:54:38.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T04:54:38.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Interfaces\\Services\\IGenericService.cs",
               "RelativeDocumentMoniker": "Interfaces\\Services\\IGenericService.cs",
@@ -721,12 +806,11 @@
               "RelativeToolTip": "Interfaces\\Services\\IGenericService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T15:48:23.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T15:48:23.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "CreateCategoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Category\\CreateCategoryViewModel.cs",
               "RelativeDocumentMoniker": "View Model\\Category\\CreateCategoryViewModel.cs",
@@ -734,25 +818,11 @@
               "RelativeToolTip": "View Model\\Category\\CreateCategoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T16:24:22.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T16:24:22.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswCIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:25:36.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "CategoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\nasrat\\OneDrive\\Desktop\\ITI Tasks\\ItiFinalProject\\View Model\\Category\\CategoryViewModel.cs",
               "RelativeDocumentMoniker": "View Model\\Category\\CategoryViewModel.cs",
@@ -760,8 +830,7 @@
               "RelativeToolTip": "View Model\\Category\\CategoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T16:24:33.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T16:24:33.159Z"
             }
           ]
         }
