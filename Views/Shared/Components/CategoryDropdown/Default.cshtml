@@ -1,0 +1,24 @@
+﻿@model SelectList
+
+@* <select name="@ViewBag.InputName" class="form-control">
+    <option value="">-- Select Category --</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.Value" selected="@item.Selected">@item.Text</option>
+    }
+</select> *@
+@* =============================================== *@
+@* <select name="@ViewBag.InputName" asp-items="Model" class="form-control">
+    <option value="">-- Select Category --</option>
+</select> *@
+
+@* =================================================== *@
+<select name="CategoryId" class="form-control">
+    <option value="">-- Select Category --</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.Value" selected="@(item.Selected ? "selected" : null)">
+            @item.Text
+        </option>
+    }
+</select>

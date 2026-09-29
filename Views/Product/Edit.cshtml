@@ -1,0 +1,61 @@
+﻿@using ItiFinalProject.View_Model.Product
+@model UpdateProductViewModel
+
+<div class="container mb-5">
+    <h1>Edit Category</h1>
+
+    <form asp-controller="Product" asp-action="Edit" enctype="multipart/form-data" method="post">
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Product Name</label>
+            <input asp-for="Title" type="text" class="form-control">
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label">Price</label>
+            <input asp-for="Price" type="number" class="form-control">
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <input asp-for="Description" type="text" class="form-control">
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Quantity" class="form-label">Quantity</label>
+            <input asp-for="Quantity" type="number" class="form-control">
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            @if (!string.IsNullOrEmpty(Model.ExistingImagePath))
+            {
+                <div class="mb-2">
+                    <label class="form-label d-block">الصورة الحالية:</label>
+                    <img src="~/images/products/@System.IO.Path.GetFileName(Model.ExistingImagePath)"
+                         asp-append-version="true"
+                         alt="Product Image"
+                         style="width: 100px; height: 100px; object-fit: cover;"
+                         class="img-thumbnail rounded" />
+                </div>
+            }
+
+            <input type="hidden" asp-for="ExistingImagePath" />
+
+            <label asp-for="ImgePath" class="form-label">تغيير الصورة (اختياري)</label>
+            <input asp-for="ImgePath" type="file" class="form-control" accept="image/*" />
+            <span asp-validation-for="ImgePath" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label">Category</label>
+            @await Component.InvokeAsync("CategoryDropdown", new { name = "CategoryId", selectedValue = Model.CategoryId })
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        <div class="mt-4 mb-3">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-controller="Product" asp-action="Index" class="btn btn-secondary">Back</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
