@@ -1,35 +1,53 @@
 ﻿@using Microsoft.AspNetCore.Identity
-<div class="col-md-3 mb-2 mb-md-0">
-    <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
-        <svg class="bi" width="40" height="32" role="img" aria-label="Bootstrap">
-            <use xlink:href="#bootstrap"></use>
-        </svg>
-    </a>
-</div>
-<ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-    <li><a asp-controller="Home" asp-action="Index" class="nav-link px-2 link-secondary">Home</a></li>
-    <li><a asp-controller="Category" asp-action="Index" class="nav-link px-2">Category</a></li>
-    <li><a asp-controller="Product" asp-action="Index" class="nav-link px-2">Products</a></li>
-    <li><a asp-controller="Chat" asp-action="Index" class="nav-link px-2">Chat Bot</a></li>
-</ul>
-@if (SignInManager.IsSignedIn(User))
-{
-    var currentUser = await UserManager.GetUserAsync(User);
-    <li class="nav-item d-flex align-items-center me-3">
-        <span class="navbar-text text-dark fw-bold">
-            Hello، @currentUser?.FirstName @currentUser?.LastName
-        </span>
-    </li>
-    <li class="nav-item">
-        <form asp-controller="User" asp-action="Logout" method="post" class="d-inline">
-            <button type="submit" class="btn btn-outline-danger">Log Out</button>
-        </form>
-    </li>
-}
-else
-{
-<div class="col-md-3 text-end">
-        <a asp-controller="User" asp-action="Login"><button type="button" class="btn btn-outline-primary me-2">Login</button></a>
-        <a asp-controller="User" asp-action="Register"><button type="button" class="btn btn-primary">Sign-up</button></a>
-</div>
-}
+
+<nav class="navbar navbar-expand-lg navbar-dark shadow-sm py-2" style="background-color: #1a2b4c;">
+    <div class="container">
+        <!-- Brand / Logo -->
+        <a class="navbar-brand fw-bold text-white fs-4" asp-controller="Home" asp-action="Index">
+            StorOps Portal
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarMain">
+            <!-- Navigation Links in Center -->
+            <ul class="navbar-nav mx-auto mb-2 mb-lg-0 gap-3">
+                <li class="nav-item">
+                    <a class="nav-link text-white fw-medium active" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white-50 fw-medium" asp-controller="Category" asp-action="Index">Category</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white-50 fw-medium" asp-controller="Product" asp-action="Index">Products</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white-50 fw-medium" asp-controller="Chat" asp-action="index">
+                        <i class="bi bi-chat-dots me-1"></i> Chat Bot
+                    </a>
+                </li>
+            </ul>
+
+            <!-- Auth Buttons Right (Using User Controller) -->
+            <div class="d-flex align-items-center gap-2">
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    var currentUser = await UserManager.GetUserAsync(User);
+                    <span class="navbar-text text-white me-2 fw-semibold">
+                        Hello، @currentUser?.FirstName @currentUser?.LastName
+                    </span>
+                    <form asp-controller="User" asp-action="Logout" method="post" class="d-inline">
+                        <button type="submit" class="btn btn-outline-light btn-sm px-3 rounded-2 fw-semibold">Logout</button>
+                    </form>
+                }
+                else
+                {
+                    <a asp-controller="User" asp-action="Login" class="btn btn-light btn-sm text-primary fw-semibold px-3 rounded-2">Login</a>
+                    <a asp-controller="User" asp-action="Register" class="btn btn-primary btn-sm fw-semibold px-3 rounded-2">Sign-up</a>
+                }
+            </div>
+        </div>
+    </div>
+</nav>
